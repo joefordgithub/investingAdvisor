@@ -1,0 +1,5 @@
+yfinance
+yahoo_fin
+pandas
+numpy
+pickle
